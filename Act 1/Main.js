@@ -10,5 +10,5 @@ function cambiaColor(newColor) {
 
 function modificarBoton() {
     var elemento = document.getElementById('miboton');
-    elemento.innerText = "Este es mi boton, de nadie mas, no puedes tenerlo, porque es mi boton."
+    elemento.innerText = "Este es mi boton, de nadie mas. No puedes tenerlo, porque es mi boton."
 }
