@@ -1,1 +1,3 @@
-
+Entrega Actividad 2 - Fundamentos y Herramientas: XAMPP y AJAX
+Por Rogelio Guzmán Cruzado.
+Conexión a AJAX por servidor apache en XAMPP.
